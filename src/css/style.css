@@ -1,7 +1,22 @@
-.margin-1 { margin: 1rem; }
-.text-line-through { text-decoration: line-through; }
-.cursor-pointer { cursor: pointer; }
-.h-200 { height: 200%; }
+body {
+    background-color: #E4EBF5;
+}
 
-.container { min-height: 100vh;}
-.navbar-brand {cursor: default;}
+.cards {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.card {
+    margin: 10px;
+    box-shadow:8px 8px 10px 0 rgba(0,0,0,0.5);
+}
+
+button {
+    margin: 30px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #d4dae4;
+}
