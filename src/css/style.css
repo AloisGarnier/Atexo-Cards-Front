@@ -1,0 +1,7 @@
+.margin-1 { margin: 1rem; }
+.text-line-through { text-decoration: line-through; }
+.cursor-pointer { cursor: pointer; }
+.h-200 { height: 200%; }
+
+.container { min-height: 100vh;}
+.navbar-brand {cursor: default;}
