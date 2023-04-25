@@ -38,6 +38,7 @@ export default function App() {
 
     /**
      * Displays current hand.
+     * If there is no hand, displays 10 flipped cards.
      */
     function displayHand() {
         let cardDisplay = [];
